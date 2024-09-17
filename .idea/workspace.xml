@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e437b3f7-a03d-4092-9067-8223ddd60e8a" name="Changes" comment="created data_loader">
-      <change afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="e437b3f7-a03d-4092-9067-8223ddd60e8a" name="Changes" comment="created main.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725984492903</updated>
       <workItem from="1725984494872" duration="338000" />
-      <workItem from="1725984836723" duration="616000" />
+      <workItem from="1725984836723" duration="1770000" />
     </task>
     <task id="LOCAL-00001" summary="initialize the repo">
       <option name="closed" value="true" />
@@ -99,7 +97,31 @@
       <option name="project" value="LOCAL" />
       <updated>1725985096793</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created model.">
+      <option name="closed" value="true" />
+      <created>1725985472144</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725985472144</updated>
+    </task>
+    <task id="LOCAL-00004" summary="created image_utils.">
+      <option name="closed" value="true" />
+      <created>1725985758311</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725985758311</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created main.">
+      <option name="closed" value="true" />
+      <created>1725985933094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725985933094</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +130,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initialize the repo" />
     <MESSAGE value="created data_loader" />
-    <option name="LAST_COMMIT_MESSAGE" value="created data_loader" />
+    <MESSAGE value="created model." />
+    <MESSAGE value="created image_utils." />
+    <MESSAGE value="created main." />
+    <option name="LAST_COMMIT_MESSAGE" value="created main." />
   </component>
 </project>
